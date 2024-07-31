@@ -336,6 +336,13 @@
 }
   
 
+@media screen and (max-width: 600px) {
+  .sparkle-button{
+    left: 50%;
+    top: 65%;
+
+  }
+}
 
   
 </style>
